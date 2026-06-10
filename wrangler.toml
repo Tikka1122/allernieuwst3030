@@ -8,3 +8,7 @@ name = "billowing-violet-4e69-prod"
 [assets]
 directory = "./public"
 binding = "ASSETS"
+
+[build]
+command = "npm run build"
+cwd = "./frontend"
