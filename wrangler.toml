@@ -10,5 +10,5 @@ directory = "./public"
 binding = "ASSETS"
 
 [build]
-command = "npm run build"
+command = "npm install && npm run build"
 cwd = "./frontend"
