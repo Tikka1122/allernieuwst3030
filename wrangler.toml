@@ -6,5 +6,5 @@ compatibility_date = "2024-01-01"
 name = "billowing-violet-4e69-prod"
 
 [assets]
-directory = "./frontend/public"
+directory = "./public"
 binding = "ASSETS"
