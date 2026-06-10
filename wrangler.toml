@@ -4,11 +4,3 @@ compatibility_date = "2024-01-01"
 
 [env.production]
 name = "billowing-violet-4e69-prod"
-
-[assets]
-directory = "./public"
-binding = "ASSETS"
-
-[build]
-command = "npm run build"
-cwd = "./frontend"
