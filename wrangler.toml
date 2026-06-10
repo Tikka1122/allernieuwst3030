@@ -1,9 +1,2 @@
 name = "allernieuwst3030"
-pages_build_output_dir = "frontend/build"
-
-[build]
-command = "cd frontend && npm install && npm run build"
-cwd = "."
-
-[env.production]
-name = "billowing-violet-4e69-prod"
+pages_build_output_dir = "./frontend/build"
